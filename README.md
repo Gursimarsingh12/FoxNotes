@@ -14,8 +14,7 @@ A simple task management Android app built with Jetpack Compose and Clean Archit
 It was my first time writing test cases. I didn't have much experience writing test cases, so I took references from various online resources and documentation to implement the unit tests for this project.
 
 ## Screenshots
-![Task List Screen.png](tasklistscreen.png)
-![Task Details Screen.png](taskdetailscreen.png)
+![Task List Screen.png](tasklistscreen.png) ![Task Details Screen.png](taskdetailscreen.png)
 
 ## Tech Stack
 
